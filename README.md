@@ -46,7 +46,7 @@ Por ser um MVP, o sistema inclui apenas o necessário para demonstrar o funciona
 
 ▶️ Como Executar o MVP
 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/chatbot-mei.git
+git clone https://github.com/davimartins7/chatbotSQL-js-html-css-sql-node-
 
 2. Instale as dependências
 npm install
